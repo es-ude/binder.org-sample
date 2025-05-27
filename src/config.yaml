@@ -1,0 +1,5 @@
+user:
+    - name: "Configuration"
+      meta:
+        - "Hello you"
+        - "That worked!"
